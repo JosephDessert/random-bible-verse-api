@@ -1,0 +1,6 @@
+@random_bible_verse_api_HostAddress = http://localhost:5148
+
+GET {{random_bible_verse_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
